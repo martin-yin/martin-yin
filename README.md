@@ -1,7 +1,6 @@
 ### Hi there, I'm [Martin Yin!](https://github.com/martin-yin) 👋
 
-Hi, I'm Martin Yin.
-
+ko no 精神小伙 da！
 
 **Languages and Tools:**  
 
