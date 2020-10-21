@@ -14,9 +14,9 @@ ko no 精神小伙 da！
 
 
 [![Anurag's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=martin-yin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/martin-yin/galaxy_pay">
+<a href="https://github.com/martin-yin/galaxy-pay">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=martin-yin&repo=galaxy_pay&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=martin-yin&repo=galaxy-pay&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 <a href="https://github.com/martin-yin/dogeye-movie">
