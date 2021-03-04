@@ -6,8 +6,8 @@ ko no 精神小伙 da！
 
 I'm Martin Yin, a software engineer, live in AnHui China.
 
-- 🎁  &nbsp; JavaScript/TypeScript/Vue/React/Electron
-- 🛠  &nbsp; Nodejs/Golang, a little bit of Php
+- 🎁  &nbsp; JavaScript/TypeScript/Vue/Flutter/Electron
+- 🛠  &nbsp; Nodejs/Nestjs/Golang, a little bit of Php
 - 🚕  &nbsp; Nginx, and some powerful tools
 
 Contact me at [GitHub](https://github.com/martin-yin)
